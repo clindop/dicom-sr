@@ -1,7 +1,7 @@
 This chapter describes the scope of this guide, provides background information about the DICOM SR to FHIR Observaton Mapping IG, key concepts,
 and describes the use cases supported by this implementation guide.
 
-1. [Problem Statement](#problem) - Description of the problem statement
+1. [Problem Statement](#Problem) - Description of the problem statement
 2. [Scope](#scope) - Scope of the IG
 3. [Use cases](#usecases) - Key use cases covered by the IG
 4. [DICOM SR Mapping to FHIR Observation](#DICOMSR) - Description of data mapped through this IG
@@ -9,7 +9,7 @@ and describes the use cases supported by this implementation guide.
 5. [References](#references) - Useful references
 
 
-### Problem
+### Problem Statement
 Problem Statement:
 
 DICOM Structured Report (DICOM SR) is a standard for recording clinical imaging observations made regarding an diagnostic or interventional imaging procedure.  Imaging Observations are made by humans, such as a sonographer making measurements on recently acquired ultrasound image, a Radiologist recording observations on an suspected legion, or by a machine, such as an automated AI Algorithm providing qualitative and quantitative observations.
